@@ -1,0 +1,22 @@
+{
+  "name": "JSAdvance",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Vbisriram/JSAdvance",
+  "authors": [
+    "Sriram B <sriramb@visualbi.com>"
+  ],
+  "description": "Application for bookmarks handling",
+  "keywords": [
+    "bookmark",
+    "book"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
